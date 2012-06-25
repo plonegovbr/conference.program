@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<rolemap>
+   <permissions>
+    <permission name="conference.program: Add Program" acquire="False">
+      <role name="Manager"/>
+      <role name="Editor"/>
+    </permission>
+    <permission name="conference.program: Add Track" acquire="False">
+      <role name="Manager"/>
+      <role name="Editor"/>
+    </permission>
+    <permission name="conference.program: Add Talk" acquire="False">
+      <role name="Manager"/>
+      <role name="Editor"/>
+    </permission>
+    <permission name="conference.program: Add Training" acquire="False">
+      <role name="Manager"/>
+      <role name="Editor"/>
+    </permission>
+    <permission name="conference.program: Allocate Session" acquire="False">
+      <role name="Manager"/>
+      <role name="Editor"/>
+    </permission>
+    <permission name="conference.program: Add Presenter" acquire="False">
+      <role name="Manager"/>
+      <role name="Editor"/>
+    </permission>
+  </permissions>
+</rolemap>

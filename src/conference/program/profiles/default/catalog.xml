@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<object name="portal_catalog">
+ <index name="language" meta_type="FieldIndex">
+  <indexed_attr value="language"/>
+ </index>
+ <index name="email" meta_type="FieldIndex">
+  <indexed_attr value="email"/>
+ </index>
+ <index name="level" meta_type="FieldIndex">
+  <indexed_attr value="level"/>
+ </index>
+ <index name="presenters" meta_type="KeywordIndex">
+  <indexed_attr value="presenters"/>
+ </index>
+ <index name="track" meta_type="FieldIndex">
+  <indexed_attr value="track"/>
+ </index>
+ <!-- Presenter Data -->
+ <column value="organization"/>
+ <column value="city"/>
+ <column value="state"/>
+ <column value="country"/>
+ <column value="email"/>
+ <!-- Session Data -->
+ <column value="presenters"/>
+ <column value="language"/>
+ <column value="level"/>
+ <column value="track"/>
+ <!-- Training Data -->
+ <column value="seats"/>
+
+</object>

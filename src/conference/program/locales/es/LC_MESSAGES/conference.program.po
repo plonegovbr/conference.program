@@ -1,0 +1,651 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2012-05-30 02:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: conference.program\n"
+
+#: conference/program/content/presenter.py:31
+msgid "A brief biografy"
+msgstr ""
+
+#: conference/program/content/track.py:28
+msgid "A brief description of this track."
+msgstr ""
+
+#: conference/program/profiles/default/types/conference.presenter.xml
+msgid "A presenter in the conference"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+msgid "A simple workflow to manage talk submission"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "A simple workflow to manage talks in a conference"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "A simple workflow to manage tracks submission"
+msgstr ""
+
+#: conference/program/profiles/default/types/conference.talk.xml
+msgid "A talk in the conference"
+msgstr ""
+
+#: conference/program/profiles/default/types/conference.track.xml
+msgid "A track in the conference"
+msgstr ""
+
+#: conference/program/profiles/default/types/conference.training.xml
+msgid "A training in the conference"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Accept"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Accept talk proposal"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Accepted"
+msgstr ""
+
+#: conference/program/vocabularies.py:95
+msgid "Advanced"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Allow Voting"
+msgstr ""
+
+#: conference/program/content/session.py:40
+msgid "An abstract of this session"
+msgstr ""
+
+#: conference/program/content/talk.py:42
+msgid "An abstract of this talk"
+msgstr ""
+
+#: conference/program/content/training.py:42
+msgid "An abstract of this training"
+msgstr ""
+
+#: conference/program/vocabularies.py:93
+msgid "Basic"
+msgstr ""
+
+#: conference/program/content/presenter.py:29
+msgid "Biografy"
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:130
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Cancel"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Cancelled"
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:88
+msgid "Choose a track, submit a talk proposal!"
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:42
+msgid "Click here to create an account."
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Close"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Close call for papers"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Close call for papers -- Initial state"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Closed"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Comment about the last transition"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Complete call for papers"
+msgstr ""
+
+#: conference/program/profiles/default/types/conference.program.xml
+msgid "Conference Program"
+msgstr ""
+
+#: conference/program/content/program.py:35
+msgid "Conference end date"
+msgstr ""
+
+#: conference/program/content/program.py:59
+msgid "Conference languages"
+msgstr ""
+
+#: conference/program/content/program.py:45
+msgid "Conference rooms"
+msgstr ""
+
+#: conference/program/content/program.py:29
+msgid "Conference start date"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Conference talk workflow"
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:129
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Confirm"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Confirmed"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Created"
+msgstr ""
+
+#: conference/program/content/track.py:26
+msgid "Description"
+msgstr ""
+
+#: conference/program/content/presenter.py:41
+msgid "Email"
+msgstr ""
+
+#: conference/program/behaviors/allocation.py:60
+#: conference/program/content/program.py:33
+msgid "End date"
+msgstr ""
+
+#: conference/program/behaviors/allocation.py:84
+msgid "End date must be in the future of start date and duration of session should be at least 5 minutes."
+msgstr ""
+
+#: conference/program/content/program.py:86
+msgid "End date must not be prior to start date"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Finish"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Finish call for papers"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Finished"
+msgstr ""
+
+#: conference/program/content/presenter.py:23
+msgid "Fullname"
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:34
+msgid "If you already have an account, click here to login."
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:32
+msgid "In order to submit talk proposals to this conference you need to create an account on this site (so you can manage your talk details later on)."
+msgstr ""
+
+#: conference/program/content/talk.py:20
+msgid "Inform a talk title"
+msgstr ""
+
+#: conference/program/content/session.py:18
+msgid "Inform a title for this session"
+msgstr ""
+
+#: conference/program/content/training.py:20
+msgid "Inform a training title"
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:132
+msgid "Information"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Initiate voting"
+msgstr ""
+
+#: conference/program/config.py:17
+msgid "Installs conference.program"
+msgstr ""
+
+#: conference/program/vocabularies.py:94
+msgid "Intermediate"
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:89
+msgid "Know more about our tracks"
+msgstr ""
+
+#: conference/program/content/presenter.py:53
+#: conference/program/content/session.py:44
+#: conference/program/content/talk.py:46
+msgid "Language"
+msgstr ""
+
+#: conference/program/content/session.py:46
+msgid "Language this session will be presented at"
+msgstr ""
+
+#: conference/program/content/talk.py:48
+msgid "Language this talk will be given"
+msgstr ""
+
+#: conference/program/content/training.py:55
+msgid "Language this training will be given"
+msgstr ""
+
+#: conference/program/content/session.py:30
+#: conference/program/content/talk.py:32
+#: conference/program/content/training.py:32
+msgid "Level"
+msgstr ""
+
+#: conference/program/content/session.py:32
+msgid "Level of this session"
+msgstr ""
+
+#: conference/program/content/talk.py:34
+msgid "Level of this talk"
+msgstr ""
+
+#: conference/program/content/training.py:34
+msgid "Level of this training"
+msgstr ""
+
+#: conference/program/behaviors/allocation.py:43
+msgid "Location"
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:109
+msgid "My profile"
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:121
+msgid "My talks"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Open"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Open call for papers"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Open voting stage"
+msgstr ""
+
+#: conference/program/content/presenter.py:35
+msgid "Organization"
+msgstr ""
+
+#: conference/program/content/presenter.py:37
+msgid "Organization you represent"
+msgstr ""
+
+#: conference/program/behaviors/presenters.py:121
+msgid "Please fill in the name of the presenter.If no presenter profile was created for this name, click on Add new presenter"
+msgstr ""
+
+#: conference/program/behaviors/allocation.py:28
+#: conference/program/content/program.py:18
+msgid "Please fix the provided information."
+msgstr ""
+
+#: conference/program/content/program.py:46
+msgid "Please inform a list of available rooms to theconference, one room per line."
+msgstr ""
+
+#: conference/program/content/track.py:21
+msgid "Please inform title for this track"
+msgstr ""
+
+#: conference/program/content/presenter.py:24
+msgid "Please inform your fullname"
+msgstr ""
+
+#: conference/program/behaviors/allocation.py:74
+#: conference/program/content/program.py:76
+msgid "Please provide a start and an end date"
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:133
+msgid "Points"
+msgstr ""
+
+#: conference/program/content/presenter.py:60
+msgid "Portrait"
+msgstr ""
+
+#: conference/program/profiles/default/types/conference.presenter.xml
+msgid "Presenter"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Presenter cancels talk"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Presenter confirms the talk"
+msgstr ""
+
+#: conference/program/content/presenter.py:43
+msgid "Presenter's email"
+msgstr ""
+
+#: conference/program/content/presenter.py:55
+msgid "Presenter's language"
+msgstr ""
+
+#: conference/program/content/presenter.py:49
+msgid "Presenter's site"
+msgstr ""
+
+#: conference/program/behaviors/presenters.py:124
+#: conference/program/browser/program_templates/view.pt:25
+msgid "Presenters"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Previous transition"
+msgstr ""
+
+#: conference/program/profiles/default/types/conference.program.xml
+msgid "Program"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+msgid "Program workflow"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Provides access to workflow history"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Reject"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Reject a talk proposal"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Rejected"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Reviewer accept talk"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Reviewer reject this talk"
+msgstr ""
+
+#: conference/program/behaviors/allocation.py:45
+msgid "Room where this session will be presented"
+msgstr ""
+
+#: conference/program/content/program.py:60
+msgid "Select which languages will be available forpresenters to choose from when proposing a talk."
+msgstr ""
+
+#: conference/program/content/program.py:54
+msgid "Session Config "
+msgstr ""
+
+#: conference/program/content/session.py:17
+msgid "Session Title"
+msgstr ""
+
+#: conference/program/content/session.py:38
+msgid "Session abstract"
+msgstr ""
+
+#: conference/program/behaviors/allocation.py:36
+msgid "Session allocation"
+msgstr ""
+
+#: conference/program/behaviors/presenters.py:115
+msgid "Session presenter"
+msgstr ""
+
+#: conference/program/content/presenter.py:47
+msgid "Site"
+msgstr ""
+
+#: conference/program/behaviors/allocation.py:52
+#: conference/program/content/program.py:27
+msgid "Start date"
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:14
+msgid "Stats"
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:162
+msgid "Status"
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:100
+msgid "Submit talk proposal here"
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:156
+msgid "Submited talks"
+msgstr ""
+
+#: conference/program/profiles/default/types/conference.talk.xml
+msgid "Talk"
+msgstr ""
+
+#: conference/program/content/talk.py:19
+msgid "Talk Title"
+msgstr ""
+
+#: conference/program/content/talk.py:40
+msgid "Talk abstract"
+msgstr ""
+
+#: conference/program/behaviors/allocation.py:62
+msgid "Talk end date"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Talk is accepted, waiting for presenter confirmation"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Talk is cancelled by the presenter"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Talk is confirmed by its presenter"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Talk is confirmed to the conference"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Talk is rejected"
+msgstr ""
+
+#: conference/program/behaviors/allocation.py:54
+msgid "Talk start date"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Talk submission and voting is complete."
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Talk submission is closed."
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+msgid "Talk submission is complete."
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Talk submission is open."
+msgstr ""
+
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Talk voting is allowed."
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Talk was cancelled"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+msgid "Talk was created and is available for selection."
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:21
+msgid "Talks"
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:125
+msgid "Talks waiting for your confirmation"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "The ID of the user who performed the previous transition"
+msgstr ""
+
+#: conference/program/content/track.py:20
+msgid "Title"
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:131
+#: conference/program/content/session.py:23
+#: conference/program/content/talk.py:25
+msgid "Track"
+msgstr ""
+
+#: conference/program/content/track.py:32
+msgid "Track Logo"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Track workflow"
+msgstr ""
+
+#: conference/program/browser/program_templates/view.pt:17
+msgid "Tracks"
+msgstr ""
+
+#: conference/program/profiles/default/types/conference.training.xml
+msgid "Training"
+msgstr ""
+
+#: conference/program/content/training.py:19
+msgid "Training Title"
+msgstr ""
+
+#: conference/program/content/training.py:40
+msgid "Training abstract"
+msgstr ""
+
+#: conference/program/content/training.py:47
+msgid "Training requirements"
+msgstr ""
+
+#: conference/program/config.py:22
+msgid "Uninstall conference.program"
+msgstr ""
+
+#: conference/program/content/presenter.py:62
+msgid "Upload an image to be used as presenters' portrait."
+msgstr ""
+
+#: conference/program/content/track.py:34
+msgid "Upload an image to be used as this track's logo."
+msgstr ""
+
+#: conference/program/content/program.py:39
+msgid "Venue capabilities"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "Voting"
+msgstr ""
+
+#: conference/program/content/training.py:49
+msgid "What are the requirements for this training session?"
+msgstr ""
+
+#: conference/program/profiles/default/workflows/program_workflow/definition.xml
+#: conference/program/profiles/default/workflows/talk_workflow/definition.xml
+#: conference/program/profiles/default/workflows/track_workflow/definition.xml
+msgid "When the previous transition was performed"
+msgstr ""
+
+#: conference/program/content/session.py:25
+msgid "Which track this session is"
+msgstr ""
+
+#: conference/program/content/talk.py:27
+#: conference/program/content/training.py:27
+msgid "Which track this talk is"
+msgstr ""
+
+#: conference/program/config.py:16
+msgid "conference.program"
+msgstr ""
+

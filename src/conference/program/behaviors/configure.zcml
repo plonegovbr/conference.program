@@ -1,0 +1,26 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:plone="http://namespaces.plone.org/plone">
+
+  <include package="plone.behavior" file="meta.zcml" />
+
+  <!-- behaviors -->
+  <plone:behavior
+      title="Session Allocation"
+      description="Behavior providing allocation capabilities to objects"
+      provides=".allocation.IAllocation"
+      factory=".allocation.Allocation"
+      for="conference.program.content.session.ISession"
+      />
+
+
+  <plone:behavior
+      title="Session Presenters"
+      description="Behavior providing presenter information to objects"
+      provides=".presenters.IPresenters"
+      factory=".presenters.Presenters"
+      for="conference.program.content.session.ISession"
+      />
+
+
+</configure>

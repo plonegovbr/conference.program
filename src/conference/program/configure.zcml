@@ -1,0 +1,41 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:grok="http://namespaces.zope.org/grok">
+
+    <includeDependencies package="." />
+
+    <include package=".behaviors"/>  
+
+    <permission
+        id="conference.program.AddProgram"
+        title="conference.program: Add Program"
+      />
+
+    <permission
+        id="conference.program.AddTrack"
+        title="conference.program: Add Track"
+      />
+
+    <permission
+        id="conference.program.AddTalk"
+        title="conference.program: Add Talk"
+      />
+
+    <permission
+        id="conference.program.AddTraining"
+        title="conference.program: Add Training"
+      />
+
+    <permission
+        id="conference.program.AddPresenter"
+        title="conference.program: Add Presenter"
+      />
+
+    <permission
+        id="conference.program.AllocateSession"
+        title="conference.program: Allocate Session"
+      />
+
+    <grok:grok package="." />
+
+</configure>
